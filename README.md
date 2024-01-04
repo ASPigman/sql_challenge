@@ -3,6 +3,9 @@ The task is a research project about people whom a ficticious company employed d
 
 ## Acknowledgements
 QuickDBD tool
+
 Othmane Benyoucef
+
 Isabella Taylor
+
 Jacob Peroutek
